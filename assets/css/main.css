@@ -1,0 +1,41 @@
+header{
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	color: #E0FFFF;
+	text-shadow: 3px 3px black;
+	font-size: 43px;
+}
+body{
+	text-align: center;
+	background-image: url("../img/tropico.png");
+}
+a{
+	text-decoration: none;
+	font-family: 'Lobster', cursive;
+
+}
+#enlace{
+	background-color: #40E0D0;
+	text-decoration: none;
+	color: blue;
+	margin: 10px auto;
+	padding: 20px;
+	width: 200px;
+}
+#boxdos{
+	background-color: #40E0D0;
+	text-decoration: none;
+	color: blue;
+	margin: 10px auto;
+	padding: 20px;
+	width: 200px;
+}
+#box{
+	background-color: #40E0D0;
+	font-family: 'Lobster', cursive;
+	text-decoration: none;
+	color: blue;
+	margin: 10px auto;
+	padding: 20px;	
+	width: 200px;
+}
